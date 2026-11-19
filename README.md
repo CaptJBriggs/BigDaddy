@@ -1,3 +1,5 @@
+<img width="800" height="482" alt="image" src="https://github.com/user-attachments/assets/98030081-b6a3-459e-af83-0dd4badb1f43" />
+
 # BigDaddy (Yes, it is a Nic Cage reference)
 
 I made this application with the help of Codex because I couldn't find anything quite like it in the Windows space.
