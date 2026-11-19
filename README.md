@@ -1,4 +1,21 @@
-# Big Daddy
+# BigDaddy (Yes it is a Nic Cage reference)
+
+I made this app with the help of Codex. Since I could not find any thing similar in the windows space. This is largely inspired by Safeeyes on Linux. But built slightly more robust.
+Where Safeeyes reminds you to take a break, Bigdaddy ENSURES that you actually do. Needless to say this is meant for children. 
+Here is my scenario: Steam can handle the scheduling of when to play. Then BigDaddy handles the frequency. On my kid's PC I have it set up so that he can play for 2 hours at a time, but will be forced to take
+a 2 hour break after that with three 5min breaks every 30min. 
+So it looks like this:
+30min Play
+5min Break
+30min Play
+5min Break
+30min Play
+5min Break
+30min play
+120min break
+So the total actual play time is still 2hours, the 5min breaks are not deducted from the play time. Additionally when you walk away from the PC, eg not touching the mouse or keyboard the timer will pause
+after the set time. Reboots won't reset the timer. The timer and count resets daily at midnight. It is not full proof and there are loops holes that I intend to fix in the future, but for now it does exactly what 
+I want it to do. Below you'll find the write up that Codex compiled.
 
 Big Daddy is a Windows desktop break-management application built with C# and Windows Forms on .NET 10.
 
