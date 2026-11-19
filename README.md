@@ -1,6 +1,18 @@
-<img width="800" height="482" alt="image" src="https://github.com/user-attachments/assets/98030081-b6a3-459e-af83-0dd4badb1f43" />
-
 # BigDaddy (Yes, it is a Nic Cage reference)
+<img width="800" height="482" alt="image" src="https://github.com/user-attachments/assets/98030081-b6a3-459e-af83-0dd4badb1f43" />
+## Current Alpha features
+
+- Configurable short- and long-break schedules.
+- Automatic idle handling that pauses Playing time but not break time.
+- Tray-based background operation and Windows-sign-in autostart.
+- Full-screen break overlay with live countdown.
+- Optional emergency PIN protection for keyboard access during breaks.
+- Windows notifications, shutdown, sign-out, and switch-user actions.
+- Optional attempt to send Escape immediately before a break begins.
+- A compact, always-on-top Play OSD with a configurable visual warning.
+- Play-session progress and completed-long-break count for the current local day.
+- Light, Dark neon, and Follow Windows appearances.
+- Session recovery for interrupted schedules.
 
 I made this application with the help of Codex because I couldn't find anything quite like it in the Windows space.
 
@@ -189,23 +201,9 @@ BigDaddy remains an Alpha application. Features and behaviour may change between
 
 The source code is available for anyone interested in following the project, learning from the implementation, reporting issues, or contributing.
 
-## Current Alpha features
-
-- Configurable short- and long-break schedules.
-- Automatic idle handling that pauses Playing time but not break time.
-- Tray-based background operation and Windows-sign-in autostart.
-- Full-screen break overlay with live countdown.
-- Optional emergency PIN protection for keyboard access during breaks.
-- Windows notifications, shutdown, sign-out, and switch-user actions.
-- Optional attempt to send Escape immediately before a break begins.
-- A compact, always-on-top Play OSD with a configurable visual warning.
-- Play-session progress and completed-long-break count for the current local day.
-- Light, Dark neon, and Follow Windows appearances.
-- Session recovery for interrupted schedules.
-
 ## Status and limitations
 
-Big Daddy is not a hardened or tamper-proof enforcement tool. It runs in the signed-in user's Windows session and is under active development. Use it at your own risk, particularly when testing shutdown, sign-out, switch-user, keyboard blocking, and recovery behaviour.
+Big Daddy is not a hardened or tamper-proof enforcement tool. It runs in the signed-in user's Windows session. Development and improvements are introduced as time and resources allow.
 
 The project currently has no formal installer, code signing, or administrator-controlled configuration layer.
 
