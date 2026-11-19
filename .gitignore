@@ -1,0 +1,22 @@
+# Visual Studio workspace and user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# .NET build output
+[Bb]in/
+[Oo]bj/
+
+# Publish output and local packaging artefacts
+[Pp]ublish/
+*.pdb
+
+# Local application configuration and recovery state
+settings.json
+session-state.json
+
+# Operating-system files
+Thumbs.db
+Desktop.ini
