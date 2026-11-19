@@ -6,7 +6,7 @@ It is currently an Alpha project. The source is published so that people can ins
 
 ## Windows download (Alpha)
 
-For a ready-to-run Windows build, download [BigDaddy-Alpha.exe](BigDaddy-Alpha.exe).
+For a ready-to-run Windows build, download [BigDaddy-Alpha.exe](https://github.com/CaptJBriggs/BigDaddy/releases/download/alpha-2.5/BigDaddy-Alpha.exe) from the [Alpha 2.5 release](https://github.com/CaptJBriggs/BigDaddy/releases/tag/alpha-2.5).
 
 It is a self-contained 64-bit Windows executable, so a separate .NET installation is not required. Place it in its intended permanent folder before first launch because Big Daddy records its location for Windows autostart. This is an unsigned Alpha build, not an installer; Windows may show its normal warning before running an application downloaded from the internet.
 
