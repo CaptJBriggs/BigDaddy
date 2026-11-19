@@ -4,6 +4,12 @@ Big Daddy is a Windows desktop break-management application built with C# and Wi
 
 It is currently an Alpha project. The source is published so that people can inspect it, learn from it, experiment, report issues, and contribute improvements.
 
+## Windows download (Alpha)
+
+For a ready-to-run Windows build, download [BigDaddy-Alpha.exe](BigDaddy-Alpha.exe).
+
+It is a self-contained 64-bit Windows executable, so a separate .NET installation is not required. Place it in its intended permanent folder before first launch because Big Daddy records its location for Windows autostart. This is an unsigned Alpha build, not an installer; Windows may show its normal warning before running an application downloaded from the internet.
+
 ## Current Alpha features
 
 - Configurable short- and long-break schedules.
